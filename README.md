@@ -21,7 +21,7 @@ Este proceso se realiza gracias al proyecto *Implementation of Essential Biodive
 ## Autores
 
 * **Maria Isabel Arce** - *Desarrollo de scripts* - [MaIsAp](https://github.com/MaIsAp)
-* **Maria Alejandra Molina** - *Desarrollo de scripts* - []()
+* **Maria Alejandra Molina** - *Desarrollo de scripts* - [mamolinab](https://github.com/mamolinab)
 * **Erika Suárez Valencia** - *Documentación y despliegue* - [erikasv](https://github.com/erikasv)
 
 Vea también la lista de [colaboradores](https://github.com/PEM-Humboldt/ebv-cbm-indicators/contributors) del proyecto.

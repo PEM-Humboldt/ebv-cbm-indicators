@@ -6,6 +6,9 @@ Este repositorio almacena los scripts que realizan el cálculo de los indicadore
 
 Este proceso se realiza gracias al proyecto *Implementation of Essential Biodiversity Variables for biodiversity assessment and monitoring at the subnational level in Colombia*, apoyado por United States Agengy for International Development ([USAID](https://www.usaid.gov/research/peer)) y Partnerships for Enhanced Engagement in Research ([PEER](https://sites.nationalacademies.org/PGA/PEER/index.htm)).
 
+### KoBoToolbox
+Todos los formularios para ingresar la información por metodología están disponibles en una [biblioteca pública](https://kf.kobotoolbox.org/#/library/asset/aVtiZurVT2pCrADg3DdWdY) dentro de [KoBoToolBox](https://www.kobotoolbox.org/). De esta forma se puede acceder a ellos, crear copias, descargar el formato y replicar para otros proyectos.
+
 ## Prerrequisitos
 
 [En construcción]

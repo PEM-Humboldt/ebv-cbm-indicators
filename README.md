@@ -9,6 +9,24 @@ Este proceso se realiza gracias al proyecto *Implementation of Essential Biodive
 ### KoBoToolbox
 Todos los formularios para ingresar la información por metodología están disponibles en una [biblioteca pública](https://kf.kobotoolbox.org/#/library/asset/aVtiZurVT2pCrADg3DdWdY) dentro de [KoBoToolBox](https://www.kobotoolbox.org/). De esta forma se puede acceder a ellos, crear copias, descargar el formato y replicar para otros proyectos.
 
+También, si se cuenta con un usuario en la página de la aplicación, se pueden previsualizar los formularios (dar click en el ícono ![ojo](/previs.PNG) en la esquina superior derecha):
+
+[01 Validación de Coberturas](https://kf.kobotoolbox.org/#/forms/akPmzNo5VsP6PfAWMo58mq)
+
+[02 Parcela de Vegetación](https://kf.kobotoolbox.org/#/forms/akPmzNo5VsP6PfAWMo58mq)
+
+[03 Puntos de Conteo](https://kf.kobotoolbox.org/#/forms/a98vjEhUMRJefYRp6neojX)
+
+[04 Cámaras Trampa](https://kf.kobotoolbox.org/#/forms/aLFiLiaznvRCzWB6SkLRtt)
+
+[04 Datos de Cámaras Trampa](https://kf.kobotoolbox.org/#/forms/aLFiLiaznvRCzWB6SkLRtt)
+
+[05 Floración, Fructificación e Interacción](https://kf.kobotoolbox.org/#/forms/ayPckh5SxB3QZyL52yq6ZY)
+
+[06 Medición de Lluvia](https://kf.kobotoolbox.org/#/forms/ayPckh5SxB3QZyL52yq6ZY)
+
+[07 Medición de Caudal](https://kf.kobotoolbox.org/#/forms/au65gkKysgsnwvtyLS9tsD)
+
 ## Prerrequisitos
 
 [En construcción]

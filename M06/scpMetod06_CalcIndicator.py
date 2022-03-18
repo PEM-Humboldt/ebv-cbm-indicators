@@ -13,7 +13,7 @@
 
 import sqlalchemy as db # para trabajar con la base de datos con sql
 import os #para acceder a variables del environment
-import pandas as pd 
+import pandas as pd
 import numpy as np
 import datetime as dt
 
@@ -82,9 +82,9 @@ registro_diario_lluvia = registro_diario_lluvia.rename(columns={'tx_codigo':'cod
 
 # In[10]:
 
-
 #Exportar a db
-#registro_diario_lluvia.to_sql('kobo_data.registro_diario_lluvia', con=db)
+db.execute('TRUNCATE TABLE indicadores.registro_diario_lluvia CASCADE')
+registro_diario_lluvia.to_sql('registro_diario_lluvia', con=db, schema="indicadores", if_exists='append', index=False)
 
 
 # In[11]:
@@ -139,5 +139,5 @@ indice_anomalia_lluvias = df_mes_parametros[['asociacion','anio','mes','iap','ia
 
 
 #Exportar a db
-indice_anomalia_lluvias.to_sql('indicadores.indice_anomalia_lluvias', con=db, if_exists='append')
-
+db.execute('TRUNCATE TABLE indicadores.indice_anomalia_lluvias CASCADE')
+indice_anomalia_lluvias.to_sql('indice_anomalia_lluvias', con=db, schema="indicadores", if_exists='append', index=False)

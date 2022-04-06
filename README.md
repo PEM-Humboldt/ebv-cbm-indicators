@@ -1,6 +1,6 @@
 # Cálculo de indicadores del monitoreo comunitario de variables esenciales de biodiversidad
 
-<sub>[English version here](README_en.md)</sub>
+>TODO: <sub>[English version here](README_en.md)</sub>
 
 Este repositorio almacena los scripts que realizan el cálculo de los indicadores sobre los datos sistematizados de los formularios de monitoreo de variables esenciales de biodiversidad. Estos datos han sido digitalizados por medio de [KoBoToolBox](https://www.kobotoolbox.org/) y hasta la fecha incluyen observaciones realizadas en tres municipios de Montes de María en el Caribe Colombiano.
 
@@ -28,8 +28,13 @@ También, si se cuenta con un usuario en la página de la aplicación, se pueden
 [07 Medición de Caudal](https://kf.kobotoolbox.org/#/forms/au65gkKysgsnwvtyLS9tsD)
 
 ## Prerrequisitos
+Python v3.8
 
-[En construcción]
+Las dependencias para correr los scripts de los diferentes indicadotres están en el archivo [`requirements.txt`](requirements.txt), para instalarlas, ejecute:
+
+```
+pip install -r requirements.txt
+```
 
 ## Cómo ejecutar
 
